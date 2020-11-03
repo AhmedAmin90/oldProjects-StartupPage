@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    background-image: url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+   
+    
+}
+
+.row{
+    padding-top: 12%;
+}
+#home-background {
+  background-color: #E7E7E7;
+}
+
+
+.col-lg-12{
+    text-align: center;
+    
+}
+.col-lg-12>h1{
+    font-size: 70px;
+    color: white;
+}
+
+.col-lg-12>h3{
+    color: white;
+}
+
+hr{
+   width: 400px;
+   
+
+}
